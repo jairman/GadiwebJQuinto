@@ -84,12 +84,12 @@
 
         <div class="content">
             <div class="title m-b-md">
-                BOILERPLATE ADMINLTE 3
+                Parqueaderos 4 ruedas necesita construir un sistema que le permita generar insights para empezar a conocer más un poco acerca de sus usuarios recurrentes
             </div>
 
             <div class="links">
-                <a href="#">SITE</a>
-                <a href="/painel">PAINEL</a>
+               
+                
             </div>
         </div>
     </div>
